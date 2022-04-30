@@ -46,15 +46,15 @@ header h1 {
     font-size: 3em;
     font-weight: normal;
     padding-top: 40px;
+    margin-bottom: 20px;
 }
 
 header p {
     display: block;
-    padding: 20px;
     font-size: 1.2em;
     max-width: 600px;
-    min-width: 400px;
     margin: auto;
+    padding: 0 10px 50px 10px;
 }
 
 nav {
@@ -82,7 +82,7 @@ main {
     background-color: #fff;
     border-radius: 0 0 var(--BORDA_PADRAO) var(--BORDA_PADRAO);
     max-width: 1050px;
-    min-width: 400px;
+    min-width: 350px;
     margin: auto;
     margin-bottom: 30px;
     box-shadow: 0 0 12px rgba(0, 0, 0, 0.363);
